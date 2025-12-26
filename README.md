@@ -3,7 +3,7 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/38570/l/firefox-developer-edition-logo.png?v=1668538245" width="200" alt="Firefox Developer Edition application logo"><br>
+ <img src="https://img.utdstc.com/icon/1ab/bd4/1abbd46d9874d11f4c113cf75cf3510b3cf37542b97dc9e687269cbf2c583a2b:200" width="200" alt="Firefox Developer Edition application logo"><br>
  <a href="https://app-quick-app.github.io/.github/FirefoxDeveloperEdition">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Firefox Developer Edition macOS">
  </a><br><br>
